@@ -79,7 +79,7 @@ namespace GLTFast.Materials
 
 #if UNITY_EDITOR
         //echoedit: This prefix assumes installation via NPM, changed to reflect inclusion within our own package
-        const string SHADER_PATH_PREFIX = "Packages/co.echo3d.echounitysdk/Runtime/Libraries/glTFast/Runtime/Shader/Built-In/";
+        const string SHADER_PATH_PREFIX = "Packages/co.echo3d.unity/Runtime/Libraries/glTFast/Runtime/Shader/Built-In/";
         const string SHADER_PATH_PBR_METALLIC_ROUGHNESS = "glTFPbrMetallicRoughness.shader";
         const string SHADER_PATH_PBR_SPECULAR_GLOSSINESS = "glTFPbrSpecularGlossiness.shader";
         const string SHADER_PATH_UNLIT = "glTFUnlit.shader";
