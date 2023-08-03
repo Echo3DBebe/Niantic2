@@ -329,7 +329,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _manageUsingUnityLifecycle: 1
   _renderTargetId: 0
-  _camera: {fileID: 0}
+  _camera: {fileID: 963194227}
   _targetTexture: {fileID: 0}
   _nearClippingPlane: 0.1
   _farClippingPlane: 100
