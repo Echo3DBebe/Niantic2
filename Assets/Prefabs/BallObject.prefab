@@ -61,8 +61,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9d8e65c606514046beb1e5c874892db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  apiKey: evergreenholidaysandsdks1
-  entries: 975a42e4-02c8-4cd0-b102-95c98f2ae743
+  apiKey: ' '
+  entries: ' '
   tags: 
   editorPreview: 1
   queryURL: https://api.echo3d.com/query?key=evergreenholidaysandsdks1&secKey=<YOUR_SECURITY_KEY>&src=UnitySDK&entries=975a42e4-02c8-4cd0-b102-95c98f2ae743
